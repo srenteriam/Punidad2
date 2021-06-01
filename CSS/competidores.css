@@ -1,0 +1,277 @@
+/* Universales */
+.compsection{
+    padding-top: 105px;
+}
+
+/* Alfa Romeo color */
+
+.alfatitu{
+    color:  rgb(144, 11, 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.alfadiv{
+    border: rgb(144, 11, 0) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+.alfaname{
+    color: rgb(144, 11, 0);
+    font-size: 30px; 
+    font-family: 'Raleway', sans-serif;
+    text-align: center
+}
+
+.alfaimg{
+    border-radius: 50%;
+    border: 3px rgb(144, 11, 0) solid;
+    padding: 3px;
+}
+
+/* AlphaTauri color */
+
+.alphatitu{
+    color:  rgb(43, 69, 98);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+  .alphadiv{
+    border: rgb(43, 69, 98) 3px solid;
+    padding:0 10px 10px 10px;
+}
+
+.alphaname{
+    color: rgb(43, 69, 98);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.alphaimg{
+    border-radius: 50%;
+    border: 3px rgb(43, 69, 98) solid;
+    padding: 4px;
+}
+
+
+/* Alpine color */
+
+.alptitu{
+    color:  rgb(1, 144, 255);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+  .alpdiv{
+    border: rgb(1, 144, 255) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+.alpname{
+    color: rgb(1, 144, 255);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.alpimg{
+    border-radius: 50%;
+    border: 3px rgb(1, 144, 255) solid;
+    padding: 4px;
+}
+
+/* Aston Martin color */
+
+.asttitu{
+    color:  rgb(0, 111, 98);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+  .astdiv{
+    border: rgb(0, 111, 98) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+.astname{
+    color: rgb(0, 111, 98);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.astimg{
+    border-radius: 50%;
+    border: 3px rgb(0, 111, 98) solid;
+    padding: 4px;
+}
+
+
+/* Ferrari color */
+
+.ferratitu{
+    color:  rgb(220, 24, 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+  .ferradiv{
+    border: rgb(220, 24, 0) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+.ferraname{
+    color: rgb(220, 24, 0);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.ferraimg{
+    border-radius: 50%;
+    border: 3px rgb(220, 24, 0) solid;
+    padding: 4px;
+}
+
+/* Haas color */
+
+.haastitu{
+    color:  rgb(200, 200, 200);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.haasdiv{
+    border: rgb(200, 200, 200) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+.haasname{
+    color: rgb(200, 200, 200);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.haasimg{
+    border-radius: 50%;
+    border: 3px rgb(200, 200, 200) solid;
+    padding: 4px;
+}
+
+/* McLaren color */
+
+.mctitu{
+    color:  rgb(255, 152, 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+  }
+
+.mcdiv{
+    border: rgb(255, 152, 0) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+.mcname{
+    color: rgb(255, 152, 0);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.mcimg{
+    border-radius: 50%;
+    border: 3px rgb(255, 152, 0) solid;
+    padding: 4px;
+}
+/* Mercedes color */
+
+.mertitu{
+    color:  rgb(1, 210, 190);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.merdiv{
+    border: rgb(1, 210, 190) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+.mername{
+    color: rgb(1, 210, 190);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.merimg{
+    border-radius: 50%;
+    border: 3px rgb(1, 210, 190) solid;
+    padding: 4px;
+}
+
+/* RedBull color */
+
+.redtitu{
+    color:  rgb(5, 20, 239);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+  }
+
+.reddiv{
+    border: rgb(5, 20, 239) 3px solid;
+    padding: 0 10px 10px 10px;
+}
+
+
+.redname{
+    color: rgb(5, 20, 239);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+   text-align: center;
+}
+
+.redimg{
+    border-radius: 50%;
+    border: 3px rgb(5, 20, 239) solid;
+    padding: 4px;
+}
+
+/* Williams color */
+
+.wititu{
+    color:  rgb(0, 90, 255);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.widiv{
+    border: rgb(0, 90, 255) 3px solid;
+    padding: 0 10px 10px 10px;
+    margin-bottom: 50px;
+}
+
+.winame{
+    color: rgb(0, 90, 255);
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.wiimg{
+    border-radius: 50%;
+    border: 3px rgb(0, 90, 255) solid;
+    padding: 4px;
+}

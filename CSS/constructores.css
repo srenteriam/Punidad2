@@ -1,0 +1,444 @@
+/* RIGHT */
+
+.rightsection{
+    padding-top:  110px; 
+    display: flex;
+    justify-content: center;   
+}
+
+.rightconte p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+
+/* LEFT */
+
+.leftsection{
+    padding-top:  110px; 
+    display: flex;
+    justify-content: center; 
+}
+
+.leftconte p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+/* Border color AlfaRomeo */
+
+.alfaarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(144, 11, 0) 10px solid;
+    border-right: rgb(144, 11, 0) 10px solid;
+    border-bottom-right-radius: 15px;
+} 
+
+.alfatitulo h2{
+    color: rgb(144, 11, 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.alfatitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(144, 11, 0) 5px solid;
+    border-right: rgb(144, 11, 0) 5px solid;
+}
+
+.alfaimg{
+    margin-right: 50px; 
+    margin-bottom: 50px;
+}
+
+.alfaimg img{
+    border-bottom: rgb(144, 11, 0) 15px solid;
+    border-right:  rgb(144, 11, 0) 15px solid;
+    border-bottom-right-radius: 15px;
+    border-radius: 30px;
+    
+}
+    
+/* Border Color AlphaTauri */
+
+.alphaarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(43, 69, 98) 10px solid;
+    border-left: rgb(43, 69, 98) 10px solid;
+    border-bottom-left-radius: 15px; 
+
+} 
+
+.alphatitulo h2{
+    color: rgb(43, 69, 98);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.alphatitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(43, 69, 98) 5px solid;
+    border-right: rgb(43, 69, 98) 5px solid;
+    transform: scaleX(-1); 
+}
+
+.alphaimg{
+    margin-left: 50px; 
+    margin-bottom: 50px;
+}
+
+
+.alphaimg img{
+    
+    border-bottom: rgb(43, 69, 98) 15px solid;
+    border-left:  rgb(37, 48, 61) 15px solid;
+    border-bottom-left-radius: 15px;
+    border-radius: 30px;    
+}
+
+/* Border color Alpine */
+
+.alpiarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(1, 144, 255) 10px solid;
+    border-right: rgb(1, 144, 255) 10px solid;
+    border-bottom-right-radius: 15px;
+} 
+
+.alpititulo h2{
+    color: rgb(1, 144, 255);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.alpititulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(1, 144, 255) 5px solid;
+    border-right: rgb(1, 144, 255) 5px solid;
+}
+
+.alpiimg{
+    margin-right: 50px; 
+    margin-bottom: 50px;
+}
+
+.alpiimg img{
+    
+    border-bottom: rgb(1, 144, 255) 15px solid;
+    border-right:  rgb(1, 144, 255) 15px solid;
+    border-bottom-right-radius: 15px;
+    border-radius: 30px;
+    
+}
+
+/* Border Color AstonMartin */
+
+.astonarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(0, 111, 98) 10px solid;
+    border-left: rgb(0, 111, 98) 10px solid;
+    border-bottom-left-radius: 15px; 
+
+} 
+
+.astontitulo h2{
+    color: rgb(0, 111, 98);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.astontitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(0, 111, 98) 5px solid;
+    border-right: rgb(0, 111, 98) 5px solid;
+    transform: scaleX(-1); 
+}
+
+.astonimg{
+    margin-left: 50px; 
+    margin-bottom: 50px;
+}
+
+.astonimg img{
+    
+    border-bottom: rgb(0, 111, 98) 15px solid;
+    border-left:  rgb(0, 111, 98) 15px solid;
+    border-bottom-left-radius: 15px;
+    border-radius: 30px;
+    
+}
+
+/* Border color Ferrari*/
+
+.ferarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(220, 24, 0) 10px solid;
+    border-right: rgb(220, 24, 0) 10px solid;
+    border-bottom-right-radius: 15px;
+} 
+
+.fertitulo h2{
+    color: rgb(220, 24, 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.fertitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(220, 24, 0) 5px solid;
+    border-right: rgb(220, 24, 0) 5px solid;
+}
+
+.ferimg{
+    margin-right: 50px; 
+    margin-bottom: 50px;
+}
+
+.ferimg img{
+    
+    border-bottom: rgb(220, 24, 0) 15px solid;
+    border-right:  rgb(220, 24, 0) 15px solid;
+    border-bottom-right-radius: 15px;
+    border-radius: 30px;
+    
+}
+
+/* Border Color Haas*/
+
+.haasarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(240, 240, 240) 10px solid;
+    border-left: rgb(240, 240, 240) 10px solid;
+    border-bottom-left-radius: 15px; 
+} 
+
+.haastitulo h2{
+    color: rgb(200, 200, 200);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.haastitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(240, 240, 240) 5px solid;
+    border-right: rgb(240, 240, 240) 5px solid;
+    transform: scaleX(-1); 
+}
+
+.haasimg{
+    margin-left: 50px; 
+    margin-bottom: 50px;
+}
+
+.haasimg img{
+    
+    border-bottom: rgb(240, 240, 240) 15px solid;
+    border-left:  rgb(240, 240, 240) 15px solid;
+    border-bottom-left-radius: 15px;
+    border-radius: 30px;
+    
+}
+
+/* Border color McLaren*/
+
+.mcarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(255, 152, 0) 10px solid;
+    border-right: rgb(255, 152, 0) 10px solid;
+    border-bottom-right-radius: 15px;
+} 
+
+.mctitulo h2{
+    color: rgb(255, 152, 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.mctitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(255, 152, 0) 5px solid;
+    border-right: rgb(255, 152, 0) 5px solid;
+}
+
+.mcimg{
+    margin-right: 50px; 
+    margin-bottom: 50px;
+}
+
+
+.mcimg img{
+
+    border-bottom: rgb(255, 152, 0) 15px solid;
+    border-right:  rgb(255, 152, 0) 15px solid;
+    border-bottom-right-radius: 15px;
+    border-radius: 30px;
+    
+}
+
+
+/* Border Color Mercedes*/
+
+.merarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(1, 210, 190) 10px solid;
+    border-left: rgb(1, 210, 190) 10px solid;
+    border-bottom-left-radius: 15px; 
+
+} 
+
+
+.mertitulo h2{
+    color: rgb(1, 210, 190);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+  
+}
+
+.mertitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(1, 210, 190) 5px solid;
+    border-right: rgb(1, 210, 190) 5px solid;
+    transform: scaleX(-1); 
+}
+
+.merimg{
+    margin-left: 50px; 
+    margin-bottom: 50px;
+}
+
+
+.merimg img{
+
+    border-bottom: rgb(1, 210, 190) 15px solid;
+    border-left:  rgb(1, 210, 190) 15px solid;
+    border-bottom-left-radius: 15px;
+    border-radius: 30px;
+    
+}
+    
+
+/* Border color Redbull*/
+
+.redarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(5, 20, 239) 10px solid;
+    border-right: rgb(5, 20, 239) 10px solid;
+    border-bottom-right-radius: 15px;
+} 
+
+
+
+.redtitulo h2{
+    color: rgb(5, 20, 239);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    
+}
+
+.redtitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(5, 20, 239) 5px solid;
+    border-right: rgb(5, 20, 239) 5px solid;
+}
+
+.redimg{
+    margin-right: 50px; 
+    margin-bottom: 50px;
+}
+
+
+.redimg img{
+    
+    border-bottom: rgb(5, 20, 239) 15px solid;
+    border-right:  rgb(5, 20, 239) 15px solid;
+    border-bottom-right-radius: 15px;
+    border-radius: 30px;
+    
+}
+    
+
+
+/* Bottom y Border Color William*/
+
+.willsection{
+    padding-top:  105px; 
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+.willarti{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    border-bottom: rgb(0, 90, 255) 10px solid;
+    border-left: rgb(0, 90, 255) 10px solid;
+    border-bottom-left-radius: 15px; 
+
+} 
+
+
+.willtitulo h2{
+    color: rgb(0, 90, 255);
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.willtitulo img{
+    width: 206px;
+    height: 61px;
+    border-bottom-right-radius: 20px;
+    border-bottom: rgb(0, 90, 255) 5px solid;
+    border-right: rgb(0, 90, 255) 5px solid;
+    transform: scaleX(-1); 
+}
+
+.willimg{
+    margin-left: 50px; 
+    margin-bottom: 50px;
+}
+
+.willimg img{
+ 
+    border-bottom: rgb(0, 90, 255) 15px solid;
+    border-left:  rgb(0, 90, 255) 15px solid;
+    border-bottom-left-radius: 15px;
+    border-radius: 30px;
+    
+}

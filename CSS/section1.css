@@ -1,0 +1,97 @@
+/* Section 1  */
+
+.section1{
+    padding-top:120px;
+}
+
+.int-sect1 h1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: rgb(255, 30, 0);
+    font-family: 'Raleway', sans-serif;
+}
+
+.int-sect1 p{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.img-intro1{
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 10px;
+    border-bottom: rgb(255, 30, 0) 8px solid;
+    border-right: rgb(255, 30, 0) 8px solid;
+    border-bottom-right-radius: 10px 
+}
+
+.img-intro2{
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 20px;
+    border-bottom: rgb(255, 30, 0) 8px solid;
+    border-right: rgb(255, 30, 0) 8px solid;
+    border-bottom-right-radius: 10px;
+}
+
+/* Imagenes Formula 1 */
+
+.imgsection{
+    padding-top: 107px;
+    padding-bottom: 10px;
+}
+
+/* Nosotros */
+
+.no-section{
+    padding-top: 110px;
+    margin-bottom: 20px;
+}
+
+.nosotrossection{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nosotrossection h2{
+    font-size: 50px;
+    color: rgb(255, 30, 0);
+    font-family: 'Raleway', sans-serif;
+}
+
+.nosotrossection p{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+}
+
+.formulario{
+    font-family:  'Raleway', sans-serif;
+    color: rgb(255, 30, 0);
+    font-size: 15px;
+    border-radius: 5px;
+    border-bottom: rgb(255, 30, 0) 10px solid;
+    border-right: rgb(255, 30, 0) 10px solid;
+    border-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+
+.autoriza{
+    font-size: 9px;
+}
+
+.boton{
+    border: rgb(255, 30, 0) 2px solid;
+    color: rgb(255, 30, 0);
+}

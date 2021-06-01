@@ -1,0 +1,26 @@
+/* Menu completo */
+header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 200;
+    height: 80px;
+}
+
+.titulo1{
+    color: rgb(255, 30,0);
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+
+.titulo2{
+    color: rgb(255, 30,0);
+    font-family: 'Raleway', sans-serif; 
+    font-size: 15px;
+    text-decoration: none;
+}
+
+
+
+

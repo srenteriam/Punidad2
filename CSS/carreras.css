@@ -1,0 +1,64 @@
+.carreras{
+    width: 100%;
+    height: 100%;
+    padding-top: 110px;
+}
+
+.circuito{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+
+.circuito .circu{
+    border-radius: 10px;
+    box-shadow: 0 2px 2px rgb(255, 35, 0);
+    margin: 20px;
+    text-align: center;
+    transition: all 0.3s;
+}
+
+.bandera{
+    border-radius: 50%;
+}
+
+.circu h2{
+    font-size: 30px;
+    margin-top: 5px;
+    color: black;
+    opacity: 50%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.circu h3{
+    font-size: 25px;
+    margin-top: 7px;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 35, 0);
+    border-bottom: rgb(255, 35, 0) 1px solid;
+}
+
+.imgcircu{
+    box-shadow: 0 0 5px rgb(192, 191, 191);
+    border-radius: 15%;
+}
+
+.circu h4{
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 35, 0);
+}
+
+.circu p{
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.circuito .circu:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgb(255, 35, 0);
+}
